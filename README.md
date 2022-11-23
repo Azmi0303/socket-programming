@@ -21,3 +21,6 @@ You just need to put in the host ip's, port's and your username to join the grou
 After your friends coming in, everyone are able to see each others messages as if it in a WhatsApp Group.
 
 Enjoy! Thank you!
+
+NOTE: DUE TO THE LIMITATION OF ATTACHMENT IN ELOK, ALL THE SOURCE CODE AND THE PPT ARE AVAILABLE ON https://github.com/Azmi0303/socket-programming
+HENCE ATTACHMENT ON ELOK WILL ONLY BE THE SOURCECODE AND README
